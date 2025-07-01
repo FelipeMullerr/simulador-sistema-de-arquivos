@@ -32,7 +32,7 @@ sistemaArquivos_SO/
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/FelipeMullerr/simulador-sistema-de-arquivos.git
 cd sistemaArquivos_SO
 
 # Compilação usando GCC
